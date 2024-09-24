@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(165, 82, 241);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#container{
+
+    display: flex;
+}
+
+.cartao{
+
+    margin: 1rem 1rem;
+    background-color: aqua;
+}
