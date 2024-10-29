@@ -1,17 +1,17 @@
 criaCartao(
 //categoria,
-'Programação'
+'Programação',
 //pergunta,
-'O que é JavaScript?'
+'O que é JavaScript?',
 //resposta,
 'O JavaScript é uma linguagem de programação'
 
 )
 criaCartao(
 //categoria,
-'Programação'
+'Programação',
 //pergunta,
-'O que é JavaScript?'
+'O que é JavaScript?',
 //resposta,
 'O JavaScript é uma linguagem de programação'
     
@@ -19,9 +19,9 @@ criaCartao(
 )
 criaCartao(
     //categoria,
-    'Programação'
+    'Programação',
     //pergunta,
-    'O que é JavaScript?'
+    'O que é JavaScript?',
     //resposta,
     'O JavaScript é uma linguagem de programação'
     
